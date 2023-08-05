@@ -89,4 +89,9 @@
   }
 
 @media screen and (max-width: 800px) {
+    .hero-text {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 40px;
+    }
 }
